@@ -7,7 +7,7 @@ int main()
 
 {
   std::cout<< "test1"<< std::endl;
-//  test(1,3);
+  test(1,3);
   return 0;  
 }
 
